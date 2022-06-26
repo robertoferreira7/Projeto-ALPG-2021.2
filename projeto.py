@@ -49,3 +49,4 @@ while True:
             "Digite uma resposta válida: [S] para fazer uma nova busca ou [N] para finalizar o programa\nDeseja realizar nova busca por matrícula? [S/N] ").upper()
     if resposta == "N":
         break
+    
