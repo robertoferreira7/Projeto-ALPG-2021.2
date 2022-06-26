@@ -5,7 +5,7 @@ import os.path
 alunos_cadastrados = []
 
 def cadastro(dados_aluno):
-    nome = input('Digite o nome do alune: ')
+    nome = input('Digite o nome do aluno(a): ')
     matricula = int(input('Nº da matrícula: '))
     curso = input('Nome do curso: ')
     periodo = int(input('Nº do perído: '))
