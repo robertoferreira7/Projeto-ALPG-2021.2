@@ -1,4 +1,5 @@
 #Fazer um programa de livre escolha de cadastro, ou cálculos ou jogos que atendam aos critérios abaixo:
+
 #[1]Estar bem comentado
 #[2]Ter usado de forma correta as técnicas aprenddias em sala de aula.
 #[3]Entrada, processamento e saída
@@ -9,7 +10,6 @@
 #[8]Funções
 
 #Pesquisa e utilização de novas técnicas e estruturas do Python.
-
 #Pacotes necessários #Necessário instalar as dependências pelo pip: pip install -r requirements.txt
 import qrcode
 from PIL import ImageShow
